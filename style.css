@@ -1,0 +1,40 @@
+.folder{
+color:black;
+margin-left:50px; 
+margin-top: 100px;
+
+}
+p{  font-family: 'Anton', sans-serif;
+  color:green;
+   font-size:70px ;
+padding-left:90px;
+}
+h1{
+  margin-left: 200px;
+  font-size: 50px;
+}
+label {
+    font-weight: bold;
+    display: block;
+    margin-bottom: 10px;
+    margin-left: 300px;
+    font-size: 30px;
+
+  }
+  input{
+    margin-left: 300px;
+    margin-top: 10px;
+    color: blue;
+  }
+
+  h2{ margin-left: 300px;
+  font-size: 25px;
+}
+body {
+    font-family: sans-serif;
+    background-color:pink;
+  }
+  table{
+    margin-left: 300px;
+    font-size: 20px;
+  }
